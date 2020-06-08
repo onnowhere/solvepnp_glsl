@@ -2,4 +2,4 @@
 
 ### License
 
-This project is made available under the [Creative Commons CC0 Public Domain license](LICENSE.md).
+This project is made available under the [MIT license](LICENSE).
