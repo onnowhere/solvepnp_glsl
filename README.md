@@ -7,6 +7,11 @@ This is a partial implementation of a few versions of the Perspective-n-Point al
 - `feedback_solvepnp_lambdatwist.vert` - Implementation of OpenMVG's [Lambda Twist](https://github.com/midjji/pnp) (Nordberg, 2018)
 - `feedback_solvepnp_ippe.vert` - Implementation of OpenCV's IPPE PnP solver
 
+### Example usage to simulate augmented reality in a virtual environment
+
+Implemented within the popular game Minecraft
+https://gfycat.com/accurateimpureaxolotl
+
 ### License
 
 This project is made available under the [MIT license](LICENSE).
