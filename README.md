@@ -10,7 +10,7 @@ This is a partial implementation of a few versions of the Perspective-n-Point al
 ### Example usage to simulate augmented reality in a virtual environment
 
 Implemented within the popular game Minecraft
-https://gfycat.com/accurateimpureaxolotl
+![](virtual_ar_demo.gif)
 
 ### License
 
