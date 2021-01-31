@@ -9,7 +9,7 @@ This is a partial implementation of a few versions of the Perspective-n-Point al
 
 ### Example usage to simulate augmented reality in a virtual environment
 
-Implemented within the popular game Minecraft. The blue 3d animation is fully simulated using AR tracking of the ground marker and rendering on the GPU.
+Implemented within the popular game Minecraft. The blue 3d animation is fully simulated using the GPU to perform AR tracking of the ground marker and perspective calculation using SolvePnP GLSL to render the raytraced object in world space.
 
 ![](virtual_ar_demo.gif)
 
